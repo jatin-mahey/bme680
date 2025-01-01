@@ -1,0 +1,10 @@
+===================================
+BME680 -
+Gas sensor measuring relative humidity, barometric pressure, ambient temperature and gas (VOC).
+===================================
+
+Simple drivers for bme680, without using bosch's API. Aim is to create drivers that are very simple and dont end up creating huge binaries, meant to go on low power co-processor therefore size has to be small.
+
+Target device - ESP32-C6
+
+Still in the works...
